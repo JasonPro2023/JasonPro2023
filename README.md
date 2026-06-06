@@ -1,23 +1,23 @@
 <div align="center">
 
-# Hola, soy Ivan Alejandro Hernández Regino 👋
+# Hola, soy Ivan Alejandro Hernández Regino 
 
-### 🎓 Estudiante de Ingeniería en Desarrollo y Gestión de Software
-### 🚀 Full-Stack Developer | TypeScript • React • Node.js • Python • IA/ML
+### Estudiante de Ingeniería en Desarrollo y Gestión de Software
+### Full-Stack Developer | TypeScript • React • Node.js • Python • IA/ML
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## Sobre mí
 
-Apasionado por construir productos web completos que integren **Inteligencia Artificial** para resolver problemas reales de empresas. Me especializo en el stack **JavaScript/TypeScript** y complemento con **Python** para servicios de Machine Learning.
+Tengo 21 años, estoy especializandome en el área del desarrollo Full-Stack. Estoy aprendiendo a construir productos web y móviles que integren **Inteligencia Artificial**, ya sea para resolver problemas de la vida real o simples hobbies y aplicaciones para entretener. Me especializo en el stack **JavaScript/TypeScript** y a veces complemento con **Python** para servicios de Machine Learning | IA.
 
-Actualmente en **penúltimo año** de mi carrera, enfocado en crear una base sólida de proyectos reales, limpios y bien documentados para mi entrada al mundo laboral.
+Actualmente estoy en **penúltimo año** de mi carrera, y estoy enfocado en aprender lo mas que pueda sobre IA, Machine Learning, Apps web, Apps móviles y seguridad en aplicaciones. Por eso aquí veras proyectos variados basados en las cosas que fuí aprendiendo y aprenderé sobre programación.
 
 ---
 
-## 🛠️ Tech Stack
+## Stack Tecnológico
 
 ### Lenguajes
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -55,40 +55,26 @@ Actualmente en **penúltimo año** de mi carrera, enfocado en crear una base só
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 | Proyecto | Descripción | Stack | Estado |
 |---|---|---|---|
-| 🎫 [**TicketYes**](https://github.com/JasonPro2023/ticketyes) | Clasificador inteligente de tickets de soporte con ML | TypeScript, React, Node.js, Python, scikit-learn | 🔨 En desarrollo |
-| 📦 [**Inventia**](https://github.com/JasonPro2023/inventia) | Sistema de inventario con predicción de demanda | TypeScript, React, Node.js, Python, scikit-learn | 📋 Planificado |
-| 👥 [**Candidat.io**](https://github.com/JasonPro2023/candidat-io) | Ranker inteligente de candidatos para RR.HH. | TypeScript, React, Node.js, Python, NLP | 📋 Planificado |
+| [**TicketYes**](https://github.com/JasonPro2023/ticketyes) | Clasificador inteligente de tickets de soporte con ML | TypeScript, React, Node.js, Python, scikit-learn | En desarrollo |
+| [**Inventia**](https://github.com/JasonPro2023/inventia) | Sistema de inventario con predicción de demanda | TypeScript, React, Node.js, Python, scikit-learn | Planificado |
+| [**Candidat.io**](https://github.com/JasonPro2023/candidat-io) | Ranker inteligente de candidatos para RR.HH. | TypeScript, React, Node.js, Python, NLP | Planificado |
 
 ---
 
-## 📊 GitHub Stats
+## Contacto para empresas
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JasonPro2023&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonPro2023&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📫 Contacto
-
-- 📧 **Email**: ivanalejandro20400@gmail.com
-- 💼 **LinkedIn**: [linkedin.com/in/JasonPro2023](https://linkedin.com/in/JasonPro2023)
-- 🌐 **Portfolio**: Este perfil
+- **LinkedIn**: [linkedin.com/in/JasonPro2023](https://linkedin.com/in/JasonPro2023)
+- **Computrabajo**:
+- **Indeed**:
 
 ---
 
 <div align="center">
 
-### 💡 "El mejor momento para empezar fue ayer. El segundo mejor momento es ahora."
-
-⭐ Si te gusta mi trabajo, considera dejar una estrella en mis repositorios.
+Si te gusta mi trabajo, considera dejar una estrella en mis repositorios.
 
 </div>
