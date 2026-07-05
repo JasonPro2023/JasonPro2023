@@ -60,8 +60,7 @@ Actualmente estoy en **penúltimo año** de mi carrera, y estoy enfocado en apre
 | Proyecto | Descripción | Stack | Estado |
 |---|---|---|---|
 | [**TicketYes**](https://github.com/JasonPro2023/ticketyes) | Clasificador inteligente de tickets de soporte con ML | TypeScript, React, Node.js, Python, scikit-learn | En desarrollo |
-| [**Inventia**](https://github.com/JasonPro2023/inventia) | Sistema de inventario con predicción de demanda | TypeScript, React, Node.js, Python, scikit-learn | Planificado |
-| [**Candidat.io**](https://github.com/JasonPro2023/candidat-io) | Ranker inteligente de candidatos para RR.HH. | TypeScript, React, Node.js, Python, NLP | Planificado |
+| [**PySolver**](https://github.com/JasonPro2023/PySolver) | Solucionador de problemas matemáticos y ecuaciones, local | Python, Pyside6, sympy, matplotlib | En Desarrollo |
 
 ---
 
