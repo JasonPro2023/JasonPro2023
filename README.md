@@ -60,14 +60,13 @@ Actualmente estoy en **penúltimo año** de mi carrera, y estoy enfocado en apre
 | Proyecto | Descripción | Stack | Estado |
 |---|---|---|---|
 | [**TicketYes**](https://github.com/JasonPro2023/ticketyes) | Clasificador inteligente de tickets de soporte con ML | TypeScript, React, Node.js, Python, scikit-learn | En desarrollo |
-| [**PySolver**](https://github.com/JasonPro2023/PySolver) | Solucionador de problemas matemáticos y ecuaciones, local | Python, Pyside6, sympy, matplotlib | En Desarrollo |
 
 ---
 
 ## Contacto para empresas
 
 - **LinkedIn**: [linkedin.com/in/JasonPro2023](https://linkedin.com/in/JasonPro2023)
-- **Computrabajo**:
+- **Computrabajo**: 
 - **Indeed**:
 
 ---
