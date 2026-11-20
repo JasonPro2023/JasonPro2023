@@ -20,7 +20,7 @@ Actualmente estoy en **último año** de mi carrera, y estoy enfocado en aprende
 ## Stack Tecnológico
 
 ### Lenguajes
-![HTML](https://img.shields.io/badge/-html-3178C6?style=flat-square&logo=html&logoColor=white)
+![HTML](https://img.shields.io/badge/-html5-3178C6?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-css-3178C6?style=flat-square&logo=css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
