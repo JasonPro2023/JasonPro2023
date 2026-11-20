@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hola, soy Ivan Alejandro Hernández Regino 
+# Ivan Alejandro Hernández Regino 
 
 ### Estudiante de Ingeniería en Desarrollo y Gestión de Software
-### Full-Stack Developer | TypeScript • React • Node.js • Python • IA/ML
+### Web Developer, Python, C++ y Java
 
 </div>
 
@@ -11,15 +11,17 @@
 
 ## Sobre mí
 
-Tengo 21 años, estoy especializandome en el área del desarrollo Full-Stack. Estoy aprendiendo a construir productos web y móviles que integren **Inteligencia Artificial**, ya sea para resolver problemas de la vida real o simples hobbies y aplicaciones para entretener. Me especializo en el stack **JavaScript/TypeScript** y a veces complemento con **Python** para servicios de Machine Learning | IA.
+Tengo 21 años y estoy aprendiendo a construir aplicaciones y herramientas, ya sea para resolver problemas de la vida real o simples hobbies y aplicaciones para entretener.
 
-Actualmente estoy en **penúltimo año** de mi carrera, y estoy enfocado en aprender lo mas que pueda sobre IA, Machine Learning, Apps web, Apps móviles y seguridad en aplicaciones. Por eso aquí veras proyectos variados basados en las cosas que fuí aprendiendo y aprenderé sobre programación.
+Actualmente estoy en **último año** de mi carrera, y estoy enfocado en aprender lo mas que pueda sobre Python, Machine Learning, Apps web, Apps móviles y Data Analysis. Aquí veras proyectos variados basados en las cosas que fuí aprendiendo y aprenderé sobre programación.
 
 ---
 
 ## Stack Tecnológico
 
 ### Lenguajes
+![HTML](https://img.shields.io/badge/-html-3178C6?style=flat-square&logo=html&logoColor=white)
+![CSS](https://img.shields.io/badge/-css-3178C6?style=flat-square&logo=css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -55,24 +57,15 @@ Actualmente estoy en **penúltimo año** de mi carrera, y estoy enfocado en apre
 
 ---
 
-## Proyectos Destacados
-
-| Proyecto | Descripción | Stack | Estado |
-|---|---|---|---|
-| [**TicketYes**](https://github.com/JasonPro2023/ticketyes) | Clasificador inteligente de tickets de soporte con ML | TypeScript, React, Node.js, Python, scikit-learn | En desarrollo |
-
----
-
 ## Contacto para empresas
 
 - **LinkedIn**: [linkedin.com/in/JasonPro2023](https://linkedin.com/in/JasonPro2023)
-- **Computrabajo**: 
 - **Indeed**:
 
 ---
 
 <div align="center">
 
-Si te gusta mi trabajo, considera dejar una estrella en mis repositorios.
+Si alguno de mis proyectos te resulta util, considera dejar una estrella en mis repositorios.
 
 </div>
